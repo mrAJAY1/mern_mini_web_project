@@ -1,0 +1,16 @@
+.banner-container {
+    color: white;
+    height: 100vh;
+    background:-moz-radial-gradient(circle at 0% 0%, rgba(3, 22, 110, 1) 0%, rgba(20, 20, 20, 1) 62%);
+    background:-webkit-radial-gradient(circle at 0% 0%, rgba(3, 22, 110, 1) 0%, rgba(20, 20, 20, 1) 62%);
+    background:-o-radial-gradient(circle at 0% 0%, rgba(3, 22, 110, 1) 0%, rgba(20, 20, 20, 1) 62%);
+    background:-ms-radial-gradient(circle at 0% 0%, rgba(3, 22, 110, 1) 0%, rgba(20, 20, 20, 1) 62%);
+    background:radial-gradient(circle at 0% 0%, rgba(3, 22, 110, 1) 0%, rgba(20, 20, 20, 1) 62%);
+}
+
+.banner-main-img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover; 
+    object-position: center;
+}

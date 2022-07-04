@@ -1,5 +1,5 @@
 import React from 'react'
-import SignupForm from '../../Components/SignupForm/SignupForm'
+import {SignupForm} from '../../Components'
 import './SignupCTR.css'
 function SignupCTR() {
     return (
